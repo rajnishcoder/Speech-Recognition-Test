@@ -7,5 +7,6 @@ It is just a test of Speech Recognition in python.
 pip install SpeechRecognition
 
 dont forget 
+
 pip install pyaudio 
 
