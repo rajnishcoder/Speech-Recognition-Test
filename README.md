@@ -2,7 +2,7 @@
 
 It is just a test of Speech Recognition in python.
 
-# Installation 
+## Installation 
 
 `pip install SpeechRecognition`
 
