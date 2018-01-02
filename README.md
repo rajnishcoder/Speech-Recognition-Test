@@ -2,11 +2,11 @@
 
 It is just a test of Speech Recognition in python.
 
-# Installation 
+## Installation 
 
-pip install SpeechRecognition
+`pip install SpeechRecognition`
 
-dont forget 
+#### dont forget 
 
-pip install pyaudio 
+`pip install pyaudio`
 
